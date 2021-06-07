@@ -1,4 +1,4 @@
-![Preview](https://user-images.githubusercontent.com/51265624/121078424-3ff84d00-c7d9-11eb-93cd-1d95f8d2d38b.png)
+![preview](https://user-images.githubusercontent.com/51265624/121079583-9c0fa100-c7da-11eb-9a97-bcb45b0a8899.png)
 
 
 # Developer's Landing Page
